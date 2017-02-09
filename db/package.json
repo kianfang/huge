@@ -1,0 +1,15 @@
+{
+  "name": "@huge/db",
+  "version": "1.0.0",
+  "description": "hugejs controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hugejs",
+    "classes"
+  ],
+  "author": "kian",
+  "license": "MIT"
+}
